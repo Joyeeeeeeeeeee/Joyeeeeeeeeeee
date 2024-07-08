@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joyeeeeeeeeeee&locale=ko)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyeeeeeeeeeee)](https://github.com/anuraghazra/github-readme-stats)
 
-https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc20b1d05-cb56-42ba-8be5-eff501f44933%2Fc52e147a-2646-4fc9-b54f-99d6abe9f77f%2FUntitled.png&blockId=9e7d8181-3cfc-41f9-99dc-2fd28e5f5e5c
- 
